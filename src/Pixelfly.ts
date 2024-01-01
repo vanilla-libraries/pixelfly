@@ -156,7 +156,6 @@ export class Pixelfly {
         viewBox: `0 0 ${svgWidth} ${svgHeight}`,
         fill: background,
         xmlns: "http://www.w3.org/2000/svg",
-        style: `background-color: ${background}`,
       },
       grid.map((row, y) =>
         row.map((cell, x) =>
