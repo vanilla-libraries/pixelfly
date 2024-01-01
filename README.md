@@ -1,5 +1,3 @@
-![Project Banner]()
-
 # Pixelfly
 
 Create simple avatars on the fly!
